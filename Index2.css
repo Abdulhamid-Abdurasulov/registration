@@ -1,1 +1,12 @@
-*
+body{
+    background-image: url(./img/kosmos-space-svet-tma-vselennaia-zvezdy.jpg);
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+.text{
+    text-align: center;
+}
